@@ -1,4 +1,5 @@
 return {
+    "free_api",
     "skid_hub",
     "alchemy_hub"
 }
